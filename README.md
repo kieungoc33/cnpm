@@ -3,3 +3,4 @@
 ## Mô tả
 Sniper 3D là một trò chơi chiến đấu trong các chiến trường nhằm trở thành một sát thủ bắn tỉa giỏi nhất trong trò chơi bắn súng này. Với nhiều chế độ chơi trực tuyến và ngoại tuyến bạn có thể chơi mọi lúc mọi nơi
 Tham gia vào Sniper 3D để chứng minh bạn là sát thủ bắn súng giỏi nhất thế giới !
+## Chế độ trong game
