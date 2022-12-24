@@ -1,2 +1,2 @@
 # Modern Sniper FPS Game
-![](https://user-images.githubusercontent.com/100570361/207360395-35f11a99-207a-48ed-b841-13ba895254d1.jpg)
+![](https://user-images.githubusercontent.com/100570361/209440806-60bc7dfe-131c-4c15-a212-86cc24de8ed3.png)
