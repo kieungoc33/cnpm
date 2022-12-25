@@ -9,8 +9,6 @@ DEATH WAR VI: Loại bỏ các mục tiêu một cách nhanh chóng, tránh vi�
 Khi hoàn thành xong nhiệm vụ mới được mở các màn chơi tiếp theo, đồng thời kiếm được vàng để có thể mua thêm trang bị .
 ![](https://user-images.githubusercontent.com/100570361/209455616-caee77df-efac-4dc9-becc-1a488736420e.jpg)
 CIVIL WAR XI : 
-
-
-
-Tìm và bắn hạ hết các mục tiêu trong màn chơi , khi hạ mục tiêu
+![](https://user-images.githubusercontent.com/100570361/209462340-17f4b5d8-ed8d-4c4e-9cbc-449844a59649.jpg)
+Trong CIVIL WAR XI tìm và bắn hạ hết các mục tiêu trong màn chơi , khi hạ mục tiêu
 các bạn sẽ được thưởng thêm vàng từ đó nâng cấp vũ khí 
