@@ -27,6 +27,8 @@ Tại mỗi màn chơi các bạn phải tìm và bắn hạ hết các mục ti
 
 BOOTCAMP :
 
-Trong chế độ này có tổng 4 màn chơi, tại mỗi màn chơi cần tìm và diệt mục tiêu với nhịp độ nhanh để trở thành để trở thành sát thủ bắn tỉa giỏi nhất
+Trong chế độ này có tổng 4 màn chơi, tại mỗi màn chơi cần tìm và diệt mục tiêu với nhịp độ nhanh để trở thành để trở thành sát thủ bắn tỉa giỏi nhất.
 
 ![](https://user-images.githubusercontent.com/100570361/209462795-5c1e5004-f0be-47f4-866a-ed55c0965a54.jpg)
+Cố gắng hạ mục tiêu vì tới màn này mục tiêu đã trở nên khó hơn .
+![](https://user-images.githubusercontent.com/100570361/209462813-6bfdd534-b234-4675-98e7-45f9ebd2a39b.jpg)
