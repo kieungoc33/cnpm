@@ -7,3 +7,4 @@ Tham gia vào Sniper 3D để chứng minh bạn là sát thủ bắn súng gi�
 DEATH WAR: loại bỏ các mục tiêu một cách nhanh chóng, tránh việc bị các mục tiêu bắn làm giảm máu bản thân.
 ![](https://user-images.githubusercontent.com/100570361/209461732-8233e4d6-414f-492f-8b51-496c77e9cee6.jpg)
 Khi hoàn thành xong nhiệm vụ mới được mở các màn chơi tiếp theo, đồng thời kiếm được vàng để có thể mua thêm trang bị .
+![](https://user-images.githubusercontent.com/100570361/209455616-caee77df-efac-4dc9-becc-1a488736420e.jpg)
