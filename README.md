@@ -44,3 +44,9 @@ Chế độ MISSIONS có tổng cộng 8 màn chơi , tại mỗi màn chơi c�
 ![](https://user-images.githubusercontent.com/100570361/209551145-d6ac3c53-0678-4459-9ccc-7750067106b4.jpg)
 
 ## Các tính năng chính trong trò chơi
+
+DAILY REWARD 
+
+![](https://user-images.githubusercontent.com/100570361/209462759-cfc54bcd-611e-4814-8dd5-9122081e70b6.jpg)
+
+Với mỗi ngày khi đăng nhập vào game , bạn sẽ được thưởng một số tiền , cố gắng tích thật nhiều tiền để nâng cấp trang bị vũ khí nhé !
