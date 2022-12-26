@@ -35,7 +35,7 @@ Cố gắng hạ mục tiêu vì tới màn này mục tiêu đã trở nên kh�
 
 ![](https://user-images.githubusercontent.com/100570361/209462813-6bfdd534-b234-4675-98e7-45f9ebd2a39b.jpg)
 
-MISSIONS 
+MISSIONS :
 
 ![](https://user-images.githubusercontent.com/100570361/209470552-67794bdc-483e-474f-bcec-7fe8491ed7ba.jpg)
 
@@ -45,8 +45,17 @@ Chế độ MISSIONS có tổng cộng 8 màn chơi , tại mỗi màn chơi c�
 
 ## Các tính năng chính trong trò chơi
 
-DAILY REWARD 
+DAILY REWARD :
 
 ![](https://user-images.githubusercontent.com/100570361/209462759-cfc54bcd-611e-4814-8dd5-9122081e70b6.jpg)
 
 Với mỗi ngày khi đăng nhập vào game , bạn sẽ được thưởng một số tiền , cố gắng tích thật nhiều tiền để nâng cấp trang bị vũ khí nhé !
+
+WEAPONS :
+ 
+ ![](https://user-images.githubusercontent.com/100570361/209462792-cf237d1a-fe75-411e-bcb6-9a53ad124850.jpg)
+ 
+ Tại đây bạn dùng tiền vàng sau khi thu thập từ các màn chơi, daily reward mua thêm súng , dùng tại các màn chơi để dễ dàng vượt qua các màn chơi một cách dễ dàng hơn.
+ 
+ 
+ 
