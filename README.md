@@ -34,3 +34,13 @@ Trong chế độ này có tổng 4 màn chơi, tại mỗi màn chơi cần tì
 Cố gắng hạ mục tiêu vì tới màn này mục tiêu đã trở nên khó hơn .
 
 ![](https://user-images.githubusercontent.com/100570361/209462813-6bfdd534-b234-4675-98e7-45f9ebd2a39b.jpg)
+
+MISSIONS 
+
+![](https://user-images.githubusercontent.com/100570361/209470552-67794bdc-483e-474f-bcec-7fe8491ed7ba.jpg)
+
+Chế độ MISSIONS có tổng cộng 8 màn chơi , tại mỗi màn chơi cần tìm các mục tiêu trên bản đồ thu nhỏ, đồng thời hạ gục các mục tiêu , với các mỗi mục tiêu được hạ gục sẽ được nhận thêm vàng để có thể nâng cấp thêm các trang bị vũ khí, sau khi hoàn thành nhiệm vụ thì mới được mở khóa màn chơi mới.
+
+![](https://user-images.githubusercontent.com/100570361/209551145-d6ac3c53-0678-4459-9ccc-7750067106b4.jpg)
+
+## Các tính năng chính trong trò chơi
