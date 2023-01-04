@@ -67,3 +67,17 @@ WEAPONS :
  
 Bên cạnh đó , bạn có thể mua thêm hộp cứu thương  bằng  xem video hoặc dùng tiền vàng mà bạn đã có để mua.
 
+Trong game bạn có thể tiến hành cài đặt các phím chơi để có thể thuận tiện cho từng người chơi bằng cách nhấn nút cài đặt trên màn hình : <img src="https://user-images.githubusercontent.com/100570361/210478156-cedc3874-ff32-4e58-bdd6-c27e5498bc35.png" width="100" height="100" />
+
+Sau khi nhấn phím cài đặt màn hình hiện ra :
+
+![](https://user-images.githubusercontent.com/100570361/210477409-54276e31-3a53-452d-9a5e-f2ccf8ed27eb.jpg)
+
+Từ đây ta có thể điều chỉnh các nút bắn , phím di chuyển, súng để thuận tiệ nhất cho người chơi khi tiến hành chơi các màn game 
+
+Để biết chi tiết hơn về từng thành phần khi chơi ta có thể nhấn kí tự i màu đỏ , tại đây ta có thể xem tính năng cụ thể của từng biểu tương 
+
+![](https://user-images.githubusercontent.com/100570361/210477370-4826ebe7-4bf0-4592-a5a5-aaad57068169.jpg)
+
+ Đây là trò chơi hỗ trợ cả online và offline , vì vậy có thể chơi ở mọi nơi với nhiều chế độ chơi thú vị, giúp người chơi có thời gian thư giãn vui vẻ sau những giờ căng thẳng mệt mỏi.
+
