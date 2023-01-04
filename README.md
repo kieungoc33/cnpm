@@ -65,4 +65,5 @@ WEAPONS :
  
  ![](https://user-images.githubusercontent.com/100570361/209462771-61cf0db1-5d07-4ab3-a755-ad18380e9dc9.jpg)
  
-Bên cạnh đó , bạn có thể mua thêm máu bằng cách xem video hoặc dùng tiền vàng đã có để mua thêm .
+Bên cạnh đó , bạn có thể mua thêm hộp cứu thương  bằng  xem video hoặc dùng tiền vàng mà bạn đã có để mua.
+
