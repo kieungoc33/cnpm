@@ -57,5 +57,12 @@ WEAPONS :
  
  Tại đây bạn dùng tiền vàng sau khi thu thập từ các màn chơi, daily reward mua thêm súng , dùng tại các màn chơi để dễ dàng vượt qua các màn chơi một cách dễ dàng hơn.
  
+ SHOP: 
  
+ ![](https://user-images.githubusercontent.com/100570361/209462787-b955b7e7-3fb7-40ae-8e0e-d22644e37e11.jpg)
  
+ Tại Shop có thể mua lấy thêm vàng bằng cách xem video , mỗi video được xem có thêm 1000 vàng .
+ 
+ ![](https://user-images.githubusercontent.com/100570361/209462771-61cf0db1-5d07-4ab3-a755-ad18380e9dc9.jpg)
+ 
+Bên cạnh đó , bạn có thể mua thêm máu bằng cách xem video hoặc dùng tiền vàng đã có để mua thêm .
